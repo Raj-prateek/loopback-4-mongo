@@ -62,3 +62,6 @@ typings/
 
 # Cache used by TypeScript's incremental build
 *.tsbuildinfo
+
+# docker/compose/data/mongo/*
+.docker/compose/data/mongo/*
